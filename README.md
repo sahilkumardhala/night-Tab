@@ -3,7 +3,7 @@
 A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks in nightTab -- a custom start page.
 
 | [See the demo in action](https://sahilkumardhala.github.io/nightTab/) | [Install nightTab Extension](https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki)
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+|:-------------:|:-------------:|
 | [<img src="./src/icon/icon-48.png" width="48px" height="48px">](https://sahilkumardhala.github.io/nightTab/) | [![Chrome](asset/logo/chrome-48.png)](https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki) |
 # Support
 
